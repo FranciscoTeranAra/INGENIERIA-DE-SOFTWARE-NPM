@@ -1,25 +1,25 @@
 {
-    "name": "parcelbase",
-    "version": "1.0.0",
-    "main": "index.js",
-    "scripts": {
-        "start": "parcel index.html",
-        "build": "parcel build index.html",
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "FTA",
-    "license": "ISC",
-    "devDependencies": {
-        "parcel-bundler": "^1.12.5"
-    },
-    "dependencies": {},
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/FranciscoTeranAra/INGENIERIA-DE-SOFTWARE-NPM.git"
-    },
-    "bugs": {
-        "url": "https://github.com/FranciscoTeranAra/INGENIERIA-DE-SOFTWARE-NPM/issues"
-    },
-    "homepage": "https://github.com/FranciscoTeranAra/INGENIERIA-DE-SOFTWARE-NPM#readme",
-    "description": ""
+  "name": "parcelbase",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FTA",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranciscoTeranAra/INGENIERIA-DE-SOFTWARE-NPM.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FranciscoTeranAra/INGENIERIA-DE-SOFTWARE-NPM/issues"
+  },
+  "homepage": "https://github.com/FranciscoTeranAra/INGENIERIA-DE-SOFTWARE-NPM#readme",
+  "description": ""
 }
